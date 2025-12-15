@@ -1,3 +1,4 @@
+
 ## Overview
 
 This repository contains the final deliverables for **INFO 4125 (Project Management)**, focused on building a predictive model that estimates library occupancy at Cornell University. The goal of the project is to improve students’ ability to find available study spaces by providing time-based occupancy predictions for selected campus libraries.
@@ -8,6 +9,7 @@ The project combines data preprocessing, predictive modeling, and interface prot
 
 ## Repository Structure
 
+```
 info4125project/
 │
 ├── Data/
@@ -28,7 +30,7 @@ info4125project/
 │
 ├── requirements.txt
 └── README.md
-
+```
 
 * **Data/** contains cleaned and synthetic datasets used for training and evaluation.
 * **Models/** contains model development notebooks documenting the evolution from initial experiments to the final model.
@@ -86,7 +88,10 @@ This project represents a functional prototype rather than a production-ready sy
 
 To run the notebooks locally, install dependencies listed in:
 
+```
 requirements.txt
+```
 
+---
 
 
